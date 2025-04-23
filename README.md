@@ -57,3 +57,6 @@ R² Score: 0.88
 
 This project serves as an introduction to **Linear Regression** using a well-known dataset. It also covers key machine learning concepts such as **data preprocessing**, **training a model**, **evaluating model performance**, and **visualizing the results**. 
 
+## 📅 License
+This project is open-source and free to use for learning, research, and personal projects. No formal license is attached—just give credit if you find it helpful!
+
